@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zfRv1R6v4iCFpSiWW7BB2JzZqtShb37aQBOFS247nPDYC5tVBSpbOZ5gOGT3oWDQZw21im0QQSnfXhOxGpBs5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\File-extation\\File-extation\\File-extation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
